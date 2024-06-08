@@ -8,4 +8,4 @@ Installs all the necessary modules and libraries to run this app
 Add your PostgreSQL database link to .env file and replace `./prisma/ca.pem` with your db's SSL certificate
 
 #### To populate the database
-run #### node test/seed.js
+run `node test/seed.js`
